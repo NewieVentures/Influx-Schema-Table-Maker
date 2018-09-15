@@ -1,7 +1,7 @@
 # Influx-Schema-Table-Maker
 Create a readable table of the schema from an Influx database.
 
-![screenshot](https://raw.githubusercontent.com/NewieVentures/Influx-Schema-Table-Maker/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/NewieVentures/Influx-Schema-Table-Maker/master/screenshot.png)
 
 ## Introduction
 InfluxDB, being a schema-less database, does not require a schema definition. It is useful however, to know what the schema is at any point in time. Influx's built-in tools do not it easy to grasp the schema.
